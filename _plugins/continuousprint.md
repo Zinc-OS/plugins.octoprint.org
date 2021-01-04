@@ -36,4 +36,3 @@ Dependeing on your printer, and the material you are printing with, you may need
 
 ## Screenshot
 
-![screenshot](/assets/img/plugins/continuousprint/screenshot.png)
